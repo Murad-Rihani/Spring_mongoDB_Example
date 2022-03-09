@@ -3,7 +3,6 @@ package edu.projects.firstProject.students.shared.services;
 import edu.projects.firstProject.students.model.Students;
 import edu.projects.firstProject.students.shared.repositoryDAO.StudentRepository;
 import lombok.AllArgsConstructor;
-import lombok.SneakyThrows;
 import org.springframework.stereotype.Service;
 
 import javax.management.InstanceNotFoundException;

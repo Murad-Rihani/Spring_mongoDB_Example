@@ -3,11 +3,9 @@ package edu.projects.firstProject.students.controller;
 import edu.projects.firstProject.students.model.Students;
 import edu.projects.firstProject.students.shared.services.StudentService;
 import lombok.AllArgsConstructor;
-import lombok.SneakyThrows;
 import org.springframework.web.bind.annotation.*;
 
 import javax.management.InstanceNotFoundException;
-import java.io.Console;
 import java.util.List;
 
 @RestController // This means that this class is a Controller
